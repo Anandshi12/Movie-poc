@@ -1,0 +1,26 @@
+{
+  "title": "Tangled",
+  "cliffhanger": {
+    "query": "Flynn Rider reaching the hidden tower and climbing in through the window",
+    "window_sec": [600, 2700]
+  },
+  "opening": {
+    "query": "the very first shot of a single glowing golden drop of sunlight falling down from the sky",
+    "window_sec": [0, 420],
+    "narration_hint": "What if a single drop of sunlight could change the fate of an entire kingdom?"
+  },
+  "beats": [
+    "A magical golden flower, hidden away by Mother Gothel, keeps her young forever.",
+    "The kingdom's queen is dying, and the king's soldiers hunt for the flower.",
+    "The flower saves the queen, and baby Rapunzel is born with magical golden hair.",
+    "The king and queen celebrate their daughter, the baby princess, who wears the crown.",
+    "Gothel sneaks into the castle at night, learns the hair loses its power when cut, and steals the baby.",
+    "Gothel raises her in a hidden tower, using the hair's power to stay young.",
+    "Rapunzel grows up and, every birthday, watches mysterious floating lights in the sky.",
+    "Gothel warns her that the outside world is dangerous and she must never leave the tower.",
+    "Flynn Rider, a notorious thief, steals the crown and flees from the royal guards.",
+    "Flynn stumbles upon the hidden tower and climbs in."
+  ],
+  "poster": "tangled_thumbnail.png",
+  "poster_has_title": true
+}
